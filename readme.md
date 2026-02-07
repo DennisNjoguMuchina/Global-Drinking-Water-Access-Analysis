@@ -1,5 +1,7 @@
 # 🌍 Global Access to Drinking Water Data Analytics Project
-[Click to view file](https://docs.google.com/spreadsheets/d/1RuVxDUMx2cIDjYOMIVnO88dMnCzbo_EeDQKp0A74N5E/edit?usp=sharing)
+## Data
+
+[View the project spreadsheet](https://docs.google.com/spreadsheets/d/1RuVxDUMx2cIDjYOMIVnO88dMnCzbo_EeDQKp0A74N5E/edit?usp=sharing)
 
 ![alt text](/pict_featured_large.jpg)
 ## 📌 Project Overview
